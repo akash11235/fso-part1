@@ -1,9 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
-
+//import App from './App'; the files were dummy files and were deleted. App object was coming from there.
 //ReactDOM.render(<App />, document.getElementById('root'));
 const App = () => (
     <div>
